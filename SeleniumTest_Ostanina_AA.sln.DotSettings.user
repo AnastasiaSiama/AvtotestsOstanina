@@ -1,4 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=200de78a_002D5e35_002D4999_002Dbb98_002D3ab749a572b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=200de78a_002D5e35_002D4999_002Dbb98_002D3ab749a572b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Solution /&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54397e2e_002D4163_002D432f_002Db6aa_002Db7d21116fd4f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NavigationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECAC45CB-9E44-4F4A-9E01-9C255CD6A30A::net7.0::SeleniumTest_Ostanina_AA.SeleniumTestsForPractice.NavigationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c42d2fb_002Df34e_002D43fd_002D9901_002D00cb29513364/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NavigationTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECAC45CB-9E44-4F4A-9E01-9C255CD6A30A::net7.0::SeleniumTest_Ostanina_AA.SeleniumTestsForPractice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECAC45CB-9E44-4F4A-9E01-9C255CD6A30A::net7.0::SeleniumTest_Ostanina_AA.FFFFFFFFFFFFFFF.S&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECAC45CB-9E44-4F4A-9E01-9C255CD6A30A::net7.0::SeleniumTest_Ostanina_AA.FFFFFFFFFFFFFFF.SS&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECAC45CB-9E44-4F4A-9E01-9C255CD6A30A::net7.0::SeleniumTest_Ostanina_AA.FFFFFFFFFFFFFFF&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=conhost_002Eexe/@EntryIndexedValue">KillOrphaned</s:String></wpf:ResourceDictionary>
