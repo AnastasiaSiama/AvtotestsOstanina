@@ -171,8 +171,7 @@ public class SeleniumTestsForPractice
 
         ClickOnElementByCssSelector("[name='button']");
 
-        var newsTitle = driver.FindElement(By.CssSelector("[data-tid='Title']"));
-        newsTitle.Text.Should().Be("Новости");
+        waiter.Until(ExpectedConditions.TitleContains("Новости"));
     }
 
     private static string GenerateGuidString()
